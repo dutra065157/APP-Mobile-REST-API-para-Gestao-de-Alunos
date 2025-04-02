@@ -46,8 +46,27 @@ requests             # Chamadas HTTP
 httpx                # APIs Async
 
 
+# 📱 APP Mobile + REST API para Gestão de Alunos
+
+<div align="center">
+  <img src="assets/image1.png" width="30%" alt="Tela 1 do App">
+  <img src="https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/blob/0362ffaf1c3f58d658adfc92433d543011d05104/assets/image1.png" width="30%" alt="Tela 1 URL GitHub">
+</div>
+
+## 🖼️ Galeria de Imagens
+
+### Telas Principais
+| Tela de Login | Dashboard Alunos |
+|---------------|------------------|
+| <img src="assets/login.png" width="400"> | <img src="https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/blob/main/assets/dashboard.png" width="400"> |
+
+### Fluxo do Sistema
+```markdown
+![Cadastro](assets/register.png)
+![Perfil](https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/blob/main/assets/profile.png)
 
 
+![image alt](https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/blob/0362ffaf1c3f58d658adfc92433d543011d05104/assets/image1.png)
 
 
 
