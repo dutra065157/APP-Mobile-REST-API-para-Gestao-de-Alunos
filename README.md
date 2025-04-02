@@ -44,3 +44,15 @@ python-decouple      # Variáveis de ambiente
 flet                 # UI/UX
 requests             # Chamadas HTTP
 httpx                # APIs Async
+
+
+
+
+
+
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python](https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/blob/d870ae316f74d5fa4a8abd0673628396f04d7207/assets/image1.png)">
+
+</p>
+
