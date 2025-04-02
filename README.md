@@ -3,7 +3,7 @@
 🚀 _Sistema integrado com frontend mobile (Flet) e backend API (Django REST Framework)_
 
 
- ![Tela do App](https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/blob/a426ad1944550cd26d7e7bd6b6c06781d7de3df8/image3.png)
+ ![Tela do App](https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/blob/a426ad1944550cd26d7e7bd6b6c06781d7de3df8/image1.png)
 
 
 ![Tela do App](image3.png)
