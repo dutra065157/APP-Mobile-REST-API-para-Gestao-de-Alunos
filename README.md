@@ -1,40 +1,46 @@
-APP Mobile + REST API para Gestão de Alunos
+# 📱 + 🌐 APP Mobile & REST API 
+**Desenvolvido com Python, Django e Flet**  
+🚀 _Sistema integrado com frontend mobile (Flet) e backend API (Django REST Framework)_
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/Flet-0178FF?style=for-the-badge&logo=flet&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+</p>
 
+---
 
-🥋 Judo Academy Manager
+## 🚀 Funcionalidades Principais
+- **📱 App Mobile (Flet)**  
+  - Interface multiplataforma (iOS/Android/Web)  
+  - Autenticação de usuários  
+  - Integração com API REST  
+  - Interface personalizada com widgets Flet  
 
-APP Mobile + REST API para Gestão de Alunos
+- **🌐 Backend (Django REST)**  
+  - API RESTful com DRF (Django REST Framework)  
+  - Banco de dados SQLite (ou PostgreSQL em produção)  
+  - Rotas para CRUD de usuários/dados  
+  - Documentação automática (Swagger/Redoc)  
 
-🌟 Visão Geral
-Sistema integrado para academias de judô, combinando um aplicativo mobile desenvolvido com Flet (Python) e uma API RESTful com Django. Permite o gerenciamento completo de alunos, acompanhamento de progresso e registro de aulas.
+---
 
-📋 Funcionalidades Principais
-📱 Aplicativo Mobile (Flet)
-Janela interativa com navegação intuitiva
+## 🛠️ Tecnologias  
+### **Backend**  
+🐍 `Python 3.11` | 🎸 `Django 5.0` | 🔧 `Django REST Framework` | 🗃️ `SQLite`  
 
-Cadastro de Alunos: Inclusão de dados pessoais, faixa, peso e histórico médico
+### **Frontend Mobile**  
+🎨 `Flet` | 📡 `Requests` | 🔄 `Async/Await`  
 
-Listagem Completa: Visualização de todos alunos com filtros por faixa/idade
+### **Bibliotecas**  
+```python
+# Backend
+django-cors-headers  # CORS
+drf-yasg             # Documentação da API
+python-decouple      # Variáveis de ambiente
 
-Progresso do Aluno: Registro de evolução técnica (kihon, kata, randori)
-
-Controle de Aulas: Marcação de presenças e conteúdos trabalhados
-
-Edição de Dados: Atualização de informações do aluno
-
-🌐 Backend API (Django REST)
-Endpoints REST para todas operações CRUD
-
-Autenticação JWT para instrutores
-
-Banco de dados relacional (SQLite/PostgreSQL)
-
-Documentação automática com Swagger
-
-🛠️ Tecnologias Utilizadas
-Backend	Frontend Mobile	Bibliotecas
-Python 3.11	Flet (UI Multiplataforma)	flet (0.22.0)
-Django 5.0	Componentes Customizados	requests (2.31.0)
-Django REST Framework	Layout Responsivo	httpx (0.27.0)
-SQLite (Dev) / PostgreSQL (Prod)		django-cors-headers
+# Mobile
+flet                 # UI/UX
+requests             # Chamadas HTTP
+httpx                # APIs Async
