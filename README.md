@@ -51,10 +51,10 @@ httpx                # APIs Async
 
 
 <!-- Usando URL RAW -->
-![Tela do App](https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/raw/main/assets/image2.png)
+![Tela do App](https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/raw/main/assets/imagem2.png)
 
 <!-- Usando caminho local (se a imagem estiver na pasta assets) -->
-![Tela do App](image2.png)
+![Tela do App](imagem2.png)
 
 
 
