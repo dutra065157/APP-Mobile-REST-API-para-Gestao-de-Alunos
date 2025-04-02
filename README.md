@@ -2,11 +2,27 @@
 **Desenvolvido com Python, Django e Flet**  
 🚀 _Sistema integrado com frontend mobile (Flet) e backend API (Django REST Framework)_
 
+
+ ![Tela do App](https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/blob/a426ad1944550cd26d7e7bd6b6c06781d7de3df8/imagem3.png)
+
+
+![Tela do App](imagem3.png)
+
+
+
+
+
+
+
 <p align="center">
+ 
+
+
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/Flet-0178FF?style=for-the-badge&logo=flet&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+  
 </p>
 
 ---
@@ -49,12 +65,6 @@ httpx                # APIs Async
 
 
 
-
-<!-- Usando URL RAW -->
-![Tela do App](https://github.com/dutra065157/APP-Mobile-REST-API-para-Gestao-de-Alunos/blob/a426ad1944550cd26d7e7bd6b6c06781d7de3df8/imagem3.png)
-
-<!-- Usando caminho local (se a imagem estiver na pasta assets) -->
-![Tela do App](imagem3.png)
 
 
 
